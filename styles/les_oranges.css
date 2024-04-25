@@ -115,7 +115,7 @@ main {
 main p {
     position: absolute;
     font-family: 'Courgette', cursive;
-    text-align: center;
+    text-align: justify;
     background-color: rgba(247, 247, 247, 0.808);
     font-size: 22px;
     margin: 20% 20%;
